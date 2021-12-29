@@ -4,3 +4,8 @@ A simple node js server and mongodb databse to perform Create, Read, Update and 
 
 ## Tech stack
 NodeJs, Express, MongoDb
+
+# Usages
+
+``` bash
+npm install
